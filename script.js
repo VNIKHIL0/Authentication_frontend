@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:5000';
+const API_BASE = 'https://authentication-backend-irl1.onrender.com';
 
 async function signup() {
   const username = document.getElementById('signup-username').value;
